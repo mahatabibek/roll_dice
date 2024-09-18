@@ -7,8 +7,8 @@ void main() {
       home: Scaffold(
         body: GradientContainer(
           colors: [
-            Color.fromARGB(255, 12, 0, 41),
-            Color.fromARGB(255, 17, 1, 81),
+            Color.fromARGB(255, 47, 47, 48),
+            Color.fromARGB(255, 93, 93, 95),
           ],
         ),
       ),
